@@ -1,9 +1,14 @@
 {
     "datasets": [
         {
+            "displayName" : "VGC 2020 (01/01/2020-01/15/2020)",
+            "name" : "vgc2020_010120-011520.json",
+            "default" : true,
+            "active" : true
+        },{
             "displayName" : "VGC 2020 (12/16/2019-12/31/2019)",
             "name" : "vgc2020_121619-123119.json",
-            "default" : true,
+            "default" : false,
             "active" : true
         },
         {
