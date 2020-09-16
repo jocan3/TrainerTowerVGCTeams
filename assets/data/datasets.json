@@ -1,9 +1,19 @@
 {
     "datasets": [
 		{
+            "displayName" : "VGC 2020 (Sep 01 to Sep 15, 2020)",
+            "name" : "vgc2020_090120-091520.json",
+            "default" : true,
+            "active" : true
+        },{
+            "displayName" : "Battle Stadium Doubles (Sep 01 to Sep 15, 2020)",
+            "name" : "battlestadiumdoubles2020_090120-091520.json",
+            "default" : false,
+            "active" : true
+        },{
             "displayName" : "VGC 2020 (Aug 16 to Sep 01, 2020)",
             "name" : "vgc2020_081620-090120.json",
-            "default" : true,
+            "default" : false,
             "active" : true
         },{
             "displayName" : "VGC 2020 (Aug 1 to Aug 15, 2020)",
