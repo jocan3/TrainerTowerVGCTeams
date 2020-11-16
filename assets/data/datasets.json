@@ -1,9 +1,14 @@
 {
     "datasets": [	
 		{
+            "displayName" : "VGC 2021 (Nov 1 to Nov 15, 2020)",
+            "name" : "vgc2021_110120-111520.json",
+            "default" : true,
+            "active" : true
+        },{
             "displayName" : "VGC 2021 (Oct 25 to Oct 31, 2020)",
             "name" : "vgc2021_102520-103120.json",
-            "default" : true,
+            "default" : false,
             "active" : true
         },{
             "displayName" : "Battle Stadium Doubles (Sep 16 to Sep 30, 2020)",
