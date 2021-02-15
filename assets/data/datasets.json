@@ -1,9 +1,14 @@
 {
-    "datasets": [
+    "datasets": [	
 		{
+            "displayName" : "VGC 2021 (Feb 1 to Feb 15, 2021)",
+            "name" : "vgc2021_020121-021521.json",
+            "default" : true,
+            "active" : true
+        },{
             "displayName" : "LegacyVGC 2021 Series 8 (Jan 16 to Jan 31, 2021)",
             "name" : "legacyvgc2021series8_011521-013121.json",
-            "default" : true,
+            "default" : false,
             "active" : true
         },{
             "displayName" : "VGC 2021 (Jan 16 to Jan 27, 2021)",
