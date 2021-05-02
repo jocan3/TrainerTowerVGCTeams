@@ -6,6 +6,11 @@
             "default" : true,
             "active" : true
         },{
+            "displayName" : "VGC 2021 Series 8 (Apr 16 to April 30, 2021)",
+            "name" : "vgc2021series8_041621-043021.json",
+            "default" : false,
+            "active" : true
+        },{
             "displayName" : "VGC 2021 (Apr 1 to Apr 15, 2021)",
             "name" : "vgc2021_040121-041521.json",
             "default" : false,
